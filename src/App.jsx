@@ -1,11 +1,10 @@
-// import React from 'react'
+import React from 'react'
 import Layout from './components/layout'
 import Hero from './components/Hero'
 import CoffeeFrom from './components/coffeeFrom'
 import Stats from './components/Stats'
 import History from './components/History'
 import { userAuth } from './context/AuthContext'
-import { coffeeConsumptionHistory } from './utils'
 
 
 
