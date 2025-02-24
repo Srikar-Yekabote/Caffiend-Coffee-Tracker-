@@ -33,7 +33,7 @@ export default function Layout(props){
             <p><span className="text-gradient">Caffiend</span> was made by 
             <a target ="blank" href="/"> Srikar Yekabote</a> <br />using the <a target="blank" href="https://www.fantacss.smoljames.com" 
             > FantaCSS </a> design library. <br />
-            Check out the project on <a target='blank' href="https://github.com/">GitHub</a>!</p>
+            Check out the project on <a target='blank' href="https://github.com/Srikar-Yekabote/Caffiend-Coffee-Tracker-">GitHub</a>!</p>
         </footer>
     )
 
