@@ -1,9 +1,9 @@
 import React from 'react'
+import CoffeeFrom from './components/coffeeFrom'
 import Layout from './components/layout'
 import Hero from './components/Hero'
-import CoffeeFrom from './components/coffeeFrom'
-import Stats from './components/Stats'
 import History from './components/History'
+import Stats from './components/Stats'
 import { userAuth } from './context/AuthContext'
 
 
